@@ -1,0 +1,21 @@
+{
+  "name": "neon-theme",
+  "displayName": "Neon Theme",
+  "description": "Simple dark neon theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-theme.json"
+      }
+    ]
+  }
+}
