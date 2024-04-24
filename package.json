@@ -6,6 +6,13 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "author": "recursehex",
+  "publisher": "recursehex",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/recursehex/Neon-Theme"
+  },
   "categories": [
     "Themes"
   ],
