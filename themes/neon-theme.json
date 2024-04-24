@@ -2,6 +2,10 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "Neon",
     "type": "dark",
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "class": "#34CB5A"
+    },
     "tokenColors": [
         {
             "name": "Error RED",
@@ -142,7 +146,6 @@
             "name": "Type BLUE",
             "scope": [
                 "constant.language",
-                "entity.name.tag",
                 "markup.changed",
                 "punctuation.definition.list.begin.markdown",
                 "meta.preprocessor",
@@ -171,7 +174,8 @@
                 "punctuation.section.embedded.end.php",
                 "variable.language",
                 "constant.character",
-                "constant.other.option"
+                "constant.other.option",
+                "keyword.other.directive.using.cs"
             ],
             "settings": {
                 "foreground": "#148AFF"
@@ -181,7 +185,8 @@
             "name": "Enum INDIGO",
             "scope": [
                 "variable.other.constant",
-                "variable.other.enummember"
+                "variable.other.enummember",
+                "entity.name.variable.enum-member.cs"
             ],
             "settings": {
                 "foreground": "#6765E7",

@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.2] - 2024-04-24
+
+### Changed
+
+- C# 'using' to use Blue instead of Purple
+- Semantic highlighting added for "class" to use Green
+- XML summary tags to use Gray instead of Blue
+- Enums fixed to correctly use Indigo instead of Cyan
+
 ## [1.0.1] - 2024-04-23
 
 ### Changed
