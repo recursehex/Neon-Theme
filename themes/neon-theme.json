@@ -191,7 +191,7 @@
             "name": "Flow PURPLE",
             "scope": [
                 "keyword.control",
-                "source.cpp keyword.operator.new",
+                "keyword.operator.new.cpp",
                 "keyword.operator.delete",
                 "keyword.other.using",
                 "keyword.other.directive.using",
@@ -281,13 +281,6 @@
             }
         },
     ],
-    "semanticHighlighting": true,
-    "semanticTokenColors": {
-        "newOperator": "#FFFFFF",
-        "stringLiteral": "#FFA114",
-        "customLiteral": "#FFFFFF",
-        "numberLiteral": "#FFFFFF",
-    },
     "colors": {
         "focusBorder": "#090A0F00",
         "foreground": "#FFFFFF",
