@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3] - 2024-04-24
+
+### Changed
+
+- Status bar item for remote window to use Black instead of Yellow
+
 ## [1.0.2] - 2024-04-24
 
 ### Changed
