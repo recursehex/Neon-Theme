@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4] - 2024-07-29
+
+### Changed
+
+- Fixed syntax for Java and SQL
+
 ## [1.0.3] - 2024-04-24
 
 ### Changed
