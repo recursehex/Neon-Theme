@@ -132,11 +132,6 @@
                 "entity.name.variable",
                 "constant.other.placeholder",
                 "meta.object-literal.key",
-                "storage.type.primitive.array.java",
-                "storage.type.primitive.java",
-                "storage.type.primitive.array.groovy",
-                "storage.type.primitive.groovy",
-                "storage.type.parameters.groovy",
                 "source.sql"
             ],
             "settings": {
@@ -176,7 +171,12 @@
                 "variable.language",
                 "constant.character",
                 "constant.other.option",
-                "keyword.other.directive.using.cs"
+                "keyword.other.directive.using.cs",
+                "storage.type.primitive.array.java",
+                "storage.type.primitive.java",
+                "storage.type.primitive.array.groovy",
+                "storage.type.primitive.groovy",
+                "storage.type.parameters.groovy",
             ],
             "settings": {
                 "foreground": "#148AFF"

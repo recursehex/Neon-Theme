@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.5] - 2024-07-29
+
+### Changed
+
+- Fixed built in type syntax for Java to use Blue instead of Cyan
+
 ## [1.0.4] - 2024-07-29
 
 ### Changed
