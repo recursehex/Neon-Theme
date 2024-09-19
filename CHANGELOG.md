@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.6] - 2024-09-18
+
+### Changed
+
+- Changed default text color to white
+- Added theme icon
+
+# Changelog
+
 ## [1.0.5] - 2024-07-29
 
 ### Changed
