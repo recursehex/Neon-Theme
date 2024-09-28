@@ -1,13 +1,17 @@
 # Changelog
 
+## [1.0.7] - 2024-09-28
+
+### Changed
+
+- Changed suggest widget background to Black
+
 ## [1.0.6] - 2024-09-18
 
 ### Changed
 
-- Changed default text color to white
+- Changed default text color to White
 - Added theme icon
-
-# Changelog
 
 ## [1.0.5] - 2024-07-29
 

@@ -3,7 +3,7 @@
 	"displayName": "Neon Theme Dark",
 	"description": "Simple dark neon theme",
 	"icon": "images/neon-theme_icon.png",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"engines": {
 		"vscode": "^1.88.0"
 	},

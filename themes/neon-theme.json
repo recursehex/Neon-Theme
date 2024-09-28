@@ -451,7 +451,7 @@
         "quickInput.foreground": "#3F445A",
         "list.hoverForeground": "#555B77",
         "list.inactiveSelectionForeground": "#47CAE1",
-        "editorSuggestWidget.background": "#212431",
+        "editorSuggestWidget.background": "#090A0F",
         "editorSuggestWidget.foreground": "#555B77",
         "editorSuggestWidget.highlightForeground": "#47CAE1",
         "editorSuggestWidget.selectedBackground": "#2C303F",
